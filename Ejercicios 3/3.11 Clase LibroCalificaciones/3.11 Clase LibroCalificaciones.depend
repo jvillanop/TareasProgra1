@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1710993086 source:g:\mi unidad\umg\iii semestre\programacion i\laboratorio\3.11 clase librocalificaciones\main.cpp
+	<iostream>
+	"LibroCalificaciones.h"
+
+1710992662 g:\mi unidad\umg\iii semestre\programacion i\laboratorio\3.11 clase librocalificaciones\librocalificaciones.h
+	<string>
+
+1710992970 source:g:\mi unidad\umg\iii semestre\programacion i\laboratorio\3.11 clase librocalificaciones\src\librocalificaciones.cpp
+	<iostream>
+	"LibroCalificaciones.h"
+
+1710992928 g:\mi unidad\umg\iii semestre\programacion i\laboratorio\3.11 clase librocalificaciones\include\librocalificaciones.h
+	<string>
+
